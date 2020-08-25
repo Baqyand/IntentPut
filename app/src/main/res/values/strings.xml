@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="ini_halaman_utama_yaitu_activity_1">Ini Halaman utama yaitu activity 1</string>
+    <string name="data">data</string>
+    <string name="intent_with_extra">Intent with extra</string>
+</resources>
